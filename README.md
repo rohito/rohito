@@ -1,5 +1,13 @@
 <h1 align="center">Hi 👋, I'm Rohit Gurung</h1>
-<h3 align="center">Data Engineer with interests in IoT</h3>
+- 🔭 I’m currently working on [RecommenDate](https://github.com/rohito/RecommenDate)
+
+- 🌱 I’m currently learning **Kafka**
+
+- 👯 I’m looking to collaborate on [https://github.com/rohito/RecommenDate](https://github.com/rohito/RecommenDate)
+
+- 💬 Ask me about **IoT**
+
+- 📫 How to reach me **tamurohit@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
