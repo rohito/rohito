@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rohit Gurung</h1>
 - 🔭 I’m currently working on [RecommenDate](https://github.com/rohito/RecommenDate)
 
-- 🌱 I’m currently learning **Kafka**
+- 🌱 I’m currently learning **Forecasting**
 
 - 👯 I’m looking to collaborate on [https://github.com/rohito/RecommenDate](https://github.com/rohito/RecommenDate)
 
